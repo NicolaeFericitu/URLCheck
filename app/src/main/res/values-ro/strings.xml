@@ -58,7 +58,7 @@ Traduceri: %3$s."</string>
     <string name="txt_width">Lățime dialog:\nAtenție! Valorile mici pot ascunde elemente ale ecranului.</string>
     <string name="spin_fullWidth">Complet</string>
     <string name="spin_dynamicWidth">Dinamic</string>
-    <string name="txt_locale">Limbă (Locale):</string>
+    <string name="txt_locale">Limbă:</string>
     <string name="txt_animation">Activează animațiile</string>
     <string name="txt_processText">Sincronizează URL-ul cu textul editabil (când aplicația este deschisă prin apăsare lungă pe text într-o casetă de introducere)</string>
     <string name="btn_tutorialSettings">Repetă tutorialul</string>
