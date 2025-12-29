@@ -271,7 +271,7 @@ Notă: dacă editezi tiparele, noile tipare încorporate din actualizările apli
         <item>308: Mutat permanent</item>
         <item>400: Cerere greșită (Bad request)</item>
         <item>401: Neautentificat</item>
-        <item>403: Interzis (Forbidden)</item>
+        <item>403: Acces interzis</item>
         <item>404: Nu a fost găsit</item>
         <item>410: Dispărut permanent</item>
         <item>"418: Sunt un ceainic! :D"</item>
